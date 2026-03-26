@@ -64,13 +64,6 @@ Evidence (mechanics described):
 Evidence:
 - `BTCDecoded/blvm/.github/workflows/ci.yml`
 
-### 4.2 Spec/BIP repositories validate “document hygiene”
-- Spec repos run CI checks to prevent common content issues (notably typo checks).
-
-Evidence:
-- `allbips/bips/CONTRIBUTING.md`
-- `specs-bip110/CONTRIBUTING.md`
-
 ## 5. Deterministic Build Verification (Reproducibility)
 
 ### 5.1 Deterministic build wrapper produces hashes
